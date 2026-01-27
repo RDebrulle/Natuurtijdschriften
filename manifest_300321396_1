@@ -2,7 +2,7 @@
   "@context": [
     "https://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://localhost/iiif/manifest_300321396_1",
+  "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/manifest_300321396_1?token=GHSAT0AAAAAADUFDRMKC5P4DAZLKSTKHWOO2LYZZMA",
   "type": "Manifest",
   "label": {
     "en": [
@@ -241,4 +241,5 @@
       ]
     }
   ]
+
 }
