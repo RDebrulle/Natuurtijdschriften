@@ -1,0 +1,281 @@
+{
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://localhost/iiif/manifest_300321396_6",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "De Boomen der Antwerpsche Vestingen (The Trees of the Antwerp Fortifications)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/canvas/PAGE-0001-08.tif",
+      "type": "Canvas",
+      "width": 1436,
+      "height": 1990,
+      "items": [
+        {
+          "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/annotationPage/PAGE-0001-08.tif",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/annotation/PAGE-0001-08.tif",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.amsab.be/iiif/3/image/300321396/PAGE-0001-08.tif/full/max/0/default.jpg",
+                "format": "image/tiff",
+                "width": 1436,
+                "height": 1990,
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://iiif.amsab.be/iiif/3/image/300321396/PAGE-0001-08.tif",
+                    "profile": "level2",
+                    "type": "ImageService3",
+                    "width": 1436,
+                    "height": 1990,
+                    "sizes": []
+                  }
+                ]
+              },
+              "target": "https://iiif.amsab.be/iiif/3/manifest/300321396/canvas/PAGE-0001-08.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/canvas/PAGE-0001-09.tif",
+      "type": "Canvas",
+      "width": 1434,
+      "height": 1985,
+      "items": [
+        {
+          "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/annotationPage/PAGE-0001-09.tif",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.amsab.be/iiif/3/manifest/300321396/annotation/PAGE-0001-09.tif",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.amsab.be/iiif/3/image/300321396/PAGE-0001-09.tif/full/max/0/default.jpg",
+                "format": "image/tiff",
+                "width": 1434,
+                "height": 1985,
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://iiif.amsab.be/iiif/3/image/300321396/PAGE-0001-09.tif",
+                    "profile": "level2",
+                    "type": "ImageService3",
+                    "width": 1434,
+                    "height": 1985,
+                    "sizes": []
+                  }
+                ]
+              },
+              "target": "https://iiif.amsab.be/iiif/3/manifest/300321396/canvas/PAGE-0001-09.tif"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rights": [],
+  "rendering": [
+    {
+      "id": "https://iiif.amsab.be/download/pdf/300321396",
+      "label": {
+        "en": [
+          "Images as PDF"
+        ],
+        "nl": [
+          "Afbeeldingen als PDF"
+        ]
+      },
+      "type": "Text",
+      "format": "application/pdf"
+    },
+    {
+      "id": "https://iiif.amsab.be/download/zip/300321396",
+      "label": {
+        "en": [
+          "Images as ZIP"
+        ],
+        "nl": [
+          "Afbeeldingen als ZIP"
+        ]
+      },
+      "type": "ZIP",
+      "format": "application/zip"
+    },
+    {
+      "id": "https://iiif.amsab.be/otherFormats/300321396",
+      "label": {
+        "en": [
+          "Other format/resolution"
+        ],
+        "nl": [
+          "Ander formaat/resolutie"
+        ]
+      },
+      "type": "Text",
+      "format": "application/pdf"
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://iiif.amsab.be/logo.png",
+      "type": "Image",
+      "format": "image/png",
+      "height": 1241,
+      "width": 1225
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Amsab-ISH"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "magazine"
+        ]
+      },
+      "value": {
+        "en": [
+          "Maandelijksch bulletijn der Vereeniging tot Behoud van Natuur- en Stedenschoon 01(1922)01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Title"
+        ],
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "none": [
+          "Maandelijksch bulletijn der Vereeniging tot Behoud van Natuur- en Stedenschoon 01(1922)01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ],
+        "nl": [
+          "Datering"
+        ]
+      },
+      "value": {
+        "none": [
+          "1922"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Object ID"
+        ],
+        "nl": [
+          "Referentienummer"
+        ]
+      },
+      "value": {
+        "none": [
+          "300321396"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "URL-PID"
+        ],
+        "nl": [
+          "URL-PID"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://hdl.handle.net/10796/688e2413-599e-4041-af78-375f43de827b"
+        ]
+      }
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://iiif.io/api/search/1/context.json",
+      "id": "https://iiif.amsab.be/iiif/3/search/300321396",
+      "type": "SearchService1",
+      "profile": "http://iiif.io/api/search/1/search",
+      "service": [
+        {
+          "id": "https://iiif.amsab.be/iiif/3/autocomplete/300321396",
+          "profile": "http://iiif.io/api/search/1/autocomplete",
+          "type": "AutoCompleteService1"
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://iiif.amsab.be/exportMetadata/300321396.json",
+      "label": {
+        "en": [
+          "Metadata as JSON"
+        ],
+        "nl": [
+          "Metadata als JSON"
+        ]
+      },
+      "type": "Website"
+    },
+    {
+      "id": "https://iiif.amsab.be/exportMetadata/300321396.csv",
+      "label": {
+        "en": [
+          "Metadata as CSV"
+        ],
+        "nl": [
+          "Metadata als CSV"
+        ]
+      },
+      "type": "Website"
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://opac.amsab.be/Record/300321396",
+      "type": "Text",
+      "label": {
+        "nl": [
+          "Catalogusvermelding"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "nl"
+      ]
+    }
+  ]
+}
