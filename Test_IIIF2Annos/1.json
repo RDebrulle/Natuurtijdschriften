@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://localhost/annos/1.json",
+    "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/1.json",
     "type": "AnnotationPage",
     "items": []
 }

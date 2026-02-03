@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://localhost/annos/5.json",
+    "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5.json",
     "type": "AnnotationPage",
     "items": [
         {
-            "id": "http://localhost/annos/5/annotation/0",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/0",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -15,7 +15,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=988,1112,140,15"
         },
         {
-            "id": "http://localhost/annos/5/annotation/1",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/1",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -26,7 +26,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1141,1105,114,37"
         },
         {
-            "id": "http://localhost/annos/5/annotation/2",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/2",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -37,7 +37,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1168,1161,3,2"
         },
         {
-            "id": "http://localhost/annos/5/annotation/3",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/3",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -48,7 +48,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1181,1156,71,14"
         },
         {
-            "id": "http://localhost/annos/5/annotation/4",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/4",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -59,7 +59,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1149,1156,103,53"
         },
         {
-            "id": "http://localhost/annos/5/annotation/5",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/5",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -70,7 +70,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1085,1229,76,17"
         },
         {
-            "id": "http://localhost/annos/5/annotation/6",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/6",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -81,7 +81,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=1172,1218,81,36"
         },
         {
-            "id": "http://localhost/annos/5/annotation/7",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/7",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -92,7 +92,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=586,1643,72,15"
         },
         {
-            "id": "http://localhost/annos/5/annotation/8",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/8",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -103,7 +103,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=674,1642,86,16"
         },
         {
-            "id": "http://localhost/annos/5/annotation/9",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/9",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -114,7 +114,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=774,1641,165,16"
         },
         {
-            "id": "http://localhost/annos/5/annotation/10",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/10",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
@@ -125,7 +125,7 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-06.tif#xywh=954,1646,20,10"
         },
         {
-            "id": "http://localhost/annos/5/annotation/11",
+            "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/5/annotation/11",
             "type": "Annotation",
             "motivation": "commenting",
             "body": {
