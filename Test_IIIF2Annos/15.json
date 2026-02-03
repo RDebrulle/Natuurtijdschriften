@@ -1,0 +1,62 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/annos/15.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "http://localhost/annos/15/annotation/0",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Druk"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-16.tif#xywh=657,859,65,19"
+        },
+        {
+            "id": "http://localhost/annos/15/annotation/1",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "V:"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-16.tif#xywh=737,858,26,19"
+        },
+        {
+            "id": "http://localhost/annos/15/annotation/2",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Resseler,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-16.tif#xywh=780,857,107,19"
+        },
+        {
+            "id": "http://localhost/annos/15/annotation/3",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "20"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-16.tif#xywh=906,856,25,19"
+        },
+        {
+            "id": "http://localhost/annos/15/annotation/4",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Prinsstraat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-16.tif#xywh=948,855,136,20"
+        }
+    ]
+}

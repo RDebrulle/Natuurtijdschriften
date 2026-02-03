@@ -1,0 +1,4429 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/annos/10.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "http://localhost/annos/10/annotation/0",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Tevens,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=218,222,94,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/1",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vooral"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=331,219,70,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/2",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=415,219,20,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/3",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=451,218,42,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/4",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Winter,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=505,216,94,22"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/5",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zullen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=618,214,70,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/6",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "overstroomingen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=705,211,202,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/7",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geregeld"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=924,204,102,35"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/8",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voorkomen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=192,255,132,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/9",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=341,260,27,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/10",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=385,253,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/11",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bed"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=438,251,40,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/12",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=494,250,38,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/13",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "schilderachtige"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=548,247,183,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/14",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "rivier"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=743,246,63,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/15",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verslijken,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=817,243,123,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/16",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=955,244,39,17"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/17",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1006,241,20,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/18",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=192,290,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/19",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Zomer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=249,288,77,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/20",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "door"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=337,287,52,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/21",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "die"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=405,286,34,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/22",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "opeenhooping,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=455,283,176,28"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/23",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=648,281,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/24",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stad"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=692,280,46,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/25",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zal"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=755,279,30,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/26",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verpesten."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=803,282,121,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/27",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Men"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=943,275,50,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/28",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "is"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1010,274,17,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/29",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wellicht"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=192,322,96,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/30",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=300,328,40,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/31",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "plan,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=353,320,58,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/32",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "om"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=424,325,35,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/33",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zoogenaamde"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=471,316,162,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/34",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "redenen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=645,315,93,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/35",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=752,319,40,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/36",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "openbare"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=809,311,109,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/37",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gezond-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=934,308,94,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/38",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "heid"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=192,356,48,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/39",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=254,356,20,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/40",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=286,355,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/41",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "toekomst,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=326,354,115,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/42",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=459,352,26,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/43",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "schilderachtige"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=501,349,182,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/44",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "riviertjes"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=699,347,105,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/45",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geheel"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=820,344,76,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/46",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "toe"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=909,346,33,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/47",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=954,346,19,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/48",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leg-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=985,341,42,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/49",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "icht"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=405,386,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/50",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=458,385,37,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/51",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stad"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=507,384,46,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/52",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ook"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=565,383,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/53",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geheel"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=618,382,75,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/54",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zou"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=707,387,38,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/55",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bederven."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=758,379,116,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/56",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ij,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=386,427,15,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/57",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bedoeld"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=415,418,90,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/58",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voornemen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=519,423,132,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/59",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "is"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=665,416,17,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/60",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=695,421,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/61",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aard"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=747,412,49,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/62",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "om"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=810,418,34,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/63",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "heel"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=859,410,44,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/64",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=917,410,35,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/65",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stem-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=963,413,65,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/66",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "laamsche"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=920,441,108,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/67",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gen,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=192,396,51,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/68",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=257,392,40,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/69",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=310,388,35,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/70",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ui"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=358,387,20,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/71",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Wat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=220,422,50,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/72",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "er"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=282,428,22,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/73",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=317,428,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/74",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mig"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=194,456,46,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/75",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "karakter"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=258,455,100,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/76",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=375,460,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/77",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=433,453,35,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/78",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stadje,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=484,451,76,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/79",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "deze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=577,450,51,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/80",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aloude"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=644,448,78,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/81",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "parel"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=742,446,55,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/82",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onzer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=818,450,63,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/83",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "V"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=898,442,18,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/84",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=504,491,26,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/85",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=545,485,33,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/86",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ware"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=592,490,54,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/87",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dus"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=660,482,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/88",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zeer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=713,487,46,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/89",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=772,484,18,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/90",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "betreuren"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=802,479,113,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/91",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "moest"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=928,480,68,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/92",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "er"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1008,481,20,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/93",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ardennen,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=195,490,126,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/94",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=340,491,19,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/95",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bederven,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=372,486,115,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/96",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gevolg"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=193,523,81,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/97",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=285,528,39,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/98",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gegeven"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=337,527,99,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/99",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "worden."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=449,519,95,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/100",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Knocke."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=194,573,103,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/101",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "De"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=224,611,31,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/102",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zeedijk"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=267,610,80,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/103",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tusschen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=361,609,101,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/104",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Duinbergen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=474,608,143,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/105",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=629,612,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/106",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Knocke"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=665,604,93,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/107",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werd"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=772,603,55,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/108",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verleden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=841,600,101,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/109",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "winter"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=957,604,70,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/110",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=550,643,79,17"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/111",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "De"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=792,636,31,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/112",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bouw"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=844,636,62,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/113",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=931,640,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/114",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "doch"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=560,674,55,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/115",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "volgens"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=629,673,90,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/116",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=731,671,34,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/117",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "plan"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=780,670,47,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/118",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zal"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=842,668,30,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/119",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "deze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=884,668,50,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/120",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nieuwe"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=949,666,81,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/121",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "op."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=194,652,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/122",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verscheidene"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=243,643,153,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/123",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "honderde"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=419,642,109,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/124",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verwoest,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=652,643,110,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/125",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nieuwen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=195,679,99,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/126",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "muur"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=308,683,63,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/127",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "is"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=383,676,17,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/128",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aanbesteed,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=411,675,138,22"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/129",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dijk"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=194,712,28,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/130",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "roo"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=255,716,35,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/131",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=302,713,78,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/132",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dieper"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=391,709,73,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/133",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=475,709,35,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/134",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "land"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=526,707,49,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/135",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=594,707,20,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/136",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gebouwd"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=631,704,107,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/137",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "worden."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=757,703,94,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/138",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Verscheidene"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=871,699,159,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/139",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "du"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=196,745,28,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/140",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "e"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=705,745,10,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/141",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "opgeofterd."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=727,736,135,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/142",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "k"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=230,723,8,7"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/143",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "izende"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=228,744,76,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/144",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=316,748,79,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/145",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "duin"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=405,742,53,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/146",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "worden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=472,742,85,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/147",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "op"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=571,748,27,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/148",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "die"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=610,740,34,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/149",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "w"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=657,746,13,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/150",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "lig"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=991,766,27,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/151",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "arvan."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=230,816,67,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/152",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Bij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=317,809,28,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/153",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "die"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=362,808,35,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/154",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gelegenheid"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=410,807,146,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/155",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "treedt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=569,806,67,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/156",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=649,805,27,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/157",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=690,805,19,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/158",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tal"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=723,804,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/159",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=763,810,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/160",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "technische"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=816,800,126,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/161",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bijzon-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=954,800,76,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/162",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "heden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=230,843,74,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/163",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "betreffende"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=329,841,134,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/164",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=479,841,25,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/165",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verzanding"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=522,839,132,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/166",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=672,838,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/167",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "badplaatsen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=729,836,140,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/168",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=887,834,20,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/169",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=925,833,26,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/170",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "buurt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=968,832,64,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/171",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=232,884,4,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/172",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Heyst"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=250,877,68,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/173",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=328,882,26,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/174",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Knocke"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=368,873,90,22"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/175",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=468,881,24,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/176",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=501,880,39,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/177",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Zeebrugge,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=548,872,135,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/178",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verzanding"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=696,869,134,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/179",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "die"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=841,868,35,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/180",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "volgens"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=887,866,90,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/181",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hem"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=983,865,48,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/182",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "oende"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=235,910,69,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/183",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zou"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=320,916,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/184",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "kunnen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=376,909,89,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/185",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bestreden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=483,906,112,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/186",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "worden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=616,904,85,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/187",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "door"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=721,904,51,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/188",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=792,903,41,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/189",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bouw"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=854,901,62,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/190",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=937,906,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/191",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "een"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=994,904,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/192",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ten"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=234,777,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/193",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onzer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=280,783,64,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/194",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=354,775,62,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/195",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=427,782,41,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/196",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=477,775,26,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/197",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "streek"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=513,774,70,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/198",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wijst"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=598,773,52,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/199",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ons"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=662,778,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/200",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "op"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=711,778,27,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/201",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=749,771,34,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/202",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "betreurenswaart"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=797,770,187,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/203",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "daz"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=195,811,32,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/204",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=196,845,33,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/205",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "var"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=198,884,30,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/206",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ak"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=197,911,25,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/207",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "muur"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=198,950,63,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/208",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=272,949,40,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/209",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=323,942,28,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/210",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zeesluizen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=361,941,119,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/211",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=492,947,38,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/212",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Heyst,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=546,939,76,22"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/213",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1ooo"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=640,943,50,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/214",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "\u00e0"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=701,938,9,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/215",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1200"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=727,942,50,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/216",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=790,939,78,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/217",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ver"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=880,941,35,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/218",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=927,934,20,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/219",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zee"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=960,939,35,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/220",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1007,938,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/221",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=234,984,4,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/222",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "paar"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=253,983,50,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/223",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=316,978,78,17"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/224",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "boven"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=406,975,68,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/225",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=487,974,26,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/226",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hoogste"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=525,974,90,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/227",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tij."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=627,972,28,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/228",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Deze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=238,1009,47,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/229",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bijzonderheden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=302,1007,180,28"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/230",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "liggen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=500,1007,73,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/231",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "buiten"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=592,1005,72,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/232",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=682,1011,53,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/233",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bevoegdheid"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=755,1001,150,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/234",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=923,1007,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/235",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onzen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=966,1005,66,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/236",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=365,1040,39,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/237",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "feit"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=430,1041,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/238",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=485,1040,35,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/239",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "duizende"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=539,1038,107,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/240",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meters"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=666,1041,78,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/241",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "duin"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=759,1036,53,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/242",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gaan"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=832,1041,55,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/243",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "opgeofterd"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=908,1031,126,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/244",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "shien"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=368,1075,56,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/245",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "noodeloos,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=438,1074,122,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/246",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stemt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=580,1076,63,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/247",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "echter"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=659,1072,72,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/248",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=744,1074,25,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/249",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nadenken."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=785,1068,124,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/250",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Wij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=929,1066,41,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/251",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vin-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=989,1072,45,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/252",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "eer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=199,984,31,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/253",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werkkring."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=200,1043,132,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/254",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "worden,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=200,1077,94,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/255",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mi"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=308,1076,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/256",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=199,1110,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/257",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ereen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=252,1116,71,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/258",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nieuw"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=342,1109,70,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/259",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bewijs"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=430,1108,72,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/260",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=518,1113,21,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/261",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=553,1113,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/262",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=608,1105,27,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/263",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "lichtzinnige"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=652,1104,141,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/264",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "handelwijze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=811,1100,142,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/265",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "waar-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=971,1105,64,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/266",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mede"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=201,1143,62,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/267",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "men"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=280,1150,49,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/268",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=344,1149,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/269",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hooger"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=401,1142,81,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/270",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hand"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=498,1139,57,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/271",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "met"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=569,1142,41,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/272",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=627,1138,26,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/273",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "duinen-streken"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=670,1136,181,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/274",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onzer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=869,1140,63,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/275",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zeekust"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=950,1132,84,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/276",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "omspringt."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=201,1176,133,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/277",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "En"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=231,1210,30,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/278",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "intusschen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=277,1209,125,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/279",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "denken"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=415,1207,87,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/280",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=516,1206,31,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/281",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=560,1206,33,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/282",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=608,1212,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/283",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "\u00ab"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=659,1213,3,9"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/284",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nogmaals"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=202,1243,113,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/285",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=335,1242,34,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/286",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vraagstuk"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=389,1241,115,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/287",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nauwkeurig"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=525,1238,142,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/288",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=675,1211,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/289",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Staat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=714,1204,57,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/290",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "niet"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=786,1207,42,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/291",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=842,1207,19,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/292",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "veelgevraagd"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=874,1197,160,28"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/293",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=954,1236,27,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/294",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1002,1232,34,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/295",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=687,1242,17,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/296",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "doen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=723,1237,54,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/297",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "inzien"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=796,1235,69,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/298",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voor"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=887,1240,49,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/299",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bouwen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=203,1277,90,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/300",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=307,1282,40,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/301",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=359,1275,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/302",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nieuwen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=415,1280,97,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/303",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "kaaimuur"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=527,1272,113,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/304",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "t\u00e9"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=657,1275,12,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/305",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Eeckeren."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=204,1322,126,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/306",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "In"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=231,1359,21,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/307",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "deze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=265,1360,51,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/308",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mooie"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=329,1359,69,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/309",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gemeente"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=410,1363,115,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/310",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=538,1356,25,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/311",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Antwer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=583,1356,81,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/312",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hakker"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=203,1393,77,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/313",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "sinds"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=303,1392,60,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/314",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "een"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=381,1399,38,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/315",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "jaar"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=441,1397,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/316",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hoog"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=501,1391,55,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/317",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tij."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=578,1390,29,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/318",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=626,1387,39,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/319",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wordt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=204,1426,64,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/320",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "met"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=283,1431,40,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/321",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=336,1425,41,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/322",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "grond"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=391,1424,68,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/323",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gelijkgemaakt,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=477,1422,179,27"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/324",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werden"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=204,1460,83,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/325",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "er"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=305,1466,22,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/326",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "op"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=338,1466,27,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/327",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tijd"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=378,1458,35,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/328",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=427,1464,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/329",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "eenige"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=479,1457,76,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/330",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "maander"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=572,1455,99,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/331",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "deelten"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=203,1491,82,21"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/332",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=300,1499,39,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/333",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=352,1492,33,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/334",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dorp"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=399,1491,54,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/335",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "lijken"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=465,1490,63,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/336",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wel"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=548,1489,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/337",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "een"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=602,1495,38,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/338",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "s"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=661,1497,9,9"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/339",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onverzwakt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=203,1526,137,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/340",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=352,1532,48,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/341",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "want"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=415,1528,55,15"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/342",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "pas"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=484,1530,36,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/343",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voor"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=534,1528,49,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/344",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "eenige"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=594,1521,79,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/345",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dat"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=203,1559,34,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/346",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "een"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=254,1566,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/347",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=310,1560,37,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/348",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "schoonste"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=362,1559,116,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/349",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "boomengroepe"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=495,1557,176,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/350",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gekapt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=204,1592,80,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/351",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wordt."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=297,1592,75,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/352",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Geen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=232,1625,58,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/353",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "macht"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=304,1626,71,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/354",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "schijnt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=388,1625,78,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/355",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dit"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=482,1623,31,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/356",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vandalisme"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=531,1622,134,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/357",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": ">"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=672,1279,3,4"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/358",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Knocke"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=695,1270,90,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/359",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wordt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=805,1268,66,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/360",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "overgegaan."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=890,1271,145,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/361",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "jen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=677,1361,31,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/362",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "viert"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=720,1359,50,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/363",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=784,1353,25,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/364",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bijl"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=823,1352,34,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/365",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=871,1358,38,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/366",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=922,1351,41,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/367",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "hout-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=978,1350,58,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/368",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "eene"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=682,1395,52,11"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/369",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "landgoed"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=752,1386,107,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/370",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "na"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=874,1392,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/371",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=913,1384,34,20"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/372",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "andere"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=960,1384,78,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/373",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tallooze"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=678,1421,88,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/374",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "eeuwenoude"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=782,1419,147,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/375",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "boomen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=947,1418,90,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/376",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=675,1461,4,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/377",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geveld"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=692,1454,76,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/378",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=786,1460,25,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/379",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=829,1453,26,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/380",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "schoonste"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=897,1452,90,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/381",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ge-"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=1004,1457,35,17"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/382",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "agveld."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=680,1487,86,25"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/383",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "En"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=785,1486,32,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/384",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=831,1486,25,18"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/385",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "razernij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=873,1484,87,23"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/386",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "houdt"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=973,1484,67,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/387",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dagen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=685,1520,71,24"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/388",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vernemen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=772,1524,115,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/389",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wij"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=901,1517,31,26"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/390",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nu"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=946,1523,27,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/391",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "weer"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=987,1522,52,13"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/392",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "n,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=675,1561,20,14"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/393",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=713,1553,26,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/394",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dreef"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=755,1552,59,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/395",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voor"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=828,1557,49,12"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/396",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=889,1550,35,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/397",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Veldhof,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=937,1549,101,22"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/398",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=683,1624,18,16"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/399",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "kunnen"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=720,1620,89,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/400",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "stuiten."
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=826,1618,88,19"
+        },
+        {
+            "id": "http://localhost/annos/10/annotation/401",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Althans,"
+            },
+            "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-11.tif#xywh=942,1616,99,22"
+        }
+    ]
+}

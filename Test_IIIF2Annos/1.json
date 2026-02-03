@@ -1,0 +1,6 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://localhost/annos/1.json",
+    "type": "AnnotationPage",
+    "items": []
+}
