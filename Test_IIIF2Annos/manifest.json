@@ -2,7 +2,7 @@
     "@context": [
         "https://iiif.io/api/presentation/3/context.json"
     ],
-    "id": "https://iiif.amsab.be/iiif/3/manifest/300321398",
+    "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/Test_IIIF2Annos/manifest.json?token=GHSAT0AAAAAADUFDRMKU2C4QW3ABSFS37YO2MBX6RQ",
     "type": "Manifest",
     "label": {
         "nl": [
@@ -898,3 +898,4 @@
     ]
 
 }
+
