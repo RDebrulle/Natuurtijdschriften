@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://localhost/annos/0.json",
+    "id": "https://raw.githubusercontent.com/RDebrulle/Natuurtijdschriften/refs/heads/main/0.json?token=GHSAT0AAAAAADUFDRMK4YSWWE7J54QGHTDS2MBXXEQ",
     "type": "AnnotationPage",
     "items": [
         {
@@ -301,4 +301,5 @@
             "target": "https://iiif.amsab.be/iiif/3/manifest/300321398/canvas/PAGE-0001-01.tif#xywh=832,1482,142,23"
         }
     ]
+
 }
